@@ -1,0 +1,9 @@
+TransactionID,Category,UnitsSold,UnitPrice,Revenue
+101,Electronics,2.0,1200.0,2400
+102,Clothing,5.0,450.0,2250
+103,Electronics,,800.0,1600
+104,Home,3.0,250.0,750
+105,Clothing,4.0,,1800
+105,Clothing,4.0,450.0,1800
+106,Home,1.0,300.0,300
+107,Electronics,10.0,1500.0,15000
